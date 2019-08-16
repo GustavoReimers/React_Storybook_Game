@@ -13,7 +13,7 @@ Boilerplate project for learning React (& its main libraries commonly used) with
 
 ## DEMO
 
-The demo is available here: https://liridon-game-library.heroku.com
+The demo is available here: https://liridon-game-library.herokuapp.com
 
 ### Tech
 
